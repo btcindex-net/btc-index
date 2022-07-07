@@ -1,1 +1,35 @@
 
+{
+"format": "CHIP-0007",
+"name": "City View #00100",
+"description": "10,000 City View NFTs on btcindex.net, from BTCIndex.",
+"sensitive_content": false,
+"collection": {
+"name": "City Views",
+"id": "CV-10000-2022",
+"attributes": [
+{
+"type": "description",
+"value": "10,000 City View NFTs on btcindex.net, from BTCIndex."
+},
+{
+"type": "twitter",
+"value": "@btcindex-net"
+},
+{
+"type": "website",
+"value": "https://btcindex.net/"
+}
+]
+},
+"attributes": [
+{
+"trait_type": "Background",
+"value": "Black"
+},
+{
+"trait_type": "Time",
+"value": "Night"
+}
+]
+}
