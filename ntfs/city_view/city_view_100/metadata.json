@@ -1,48 +1,29 @@
 {
     "format": "CHIP-0007",
-    "name": "Pikachu",
-    "description": "Electric-type Pokémon with stretchy cheeks",
-    "minting_tool": "SuperMinter/2.5.2",
+    "name": "City View #00100",
+    "description": "#100 of 10,000 City View NFTs on btcindex.net, from BTCIndex.",
     "sensitive_content": false,
     "attributes": [
         {
-            "trait_type": "Species",
-            "value": "Mouse"
+            "trait_type": "Background",
+            "value": "Black"
         },
         {
-            "trait_type": "Color",
-            "value": "Yellow"
-        },
-        {
-            "trait_type": "Friendship",
-            "value": 50,
-            "min_value": 0,
-            "max_value": 255
+            "trait_type": "Time",
+            "value": "Night"
         }
     ],
     "collection": {
-        "name": "Example Pokémon Collection",
-        "id": "e43fcfe6-1d5c-4d6e-82da-5de3aa8b3b57",
+        "name": "City Views",
+        "id": "btcindex-2022-cv-10000",
         "attributes": [
             {
                 "type": "description",
-                "value": "Example Pokémon Collection is the best Pokémon collection. Get yours today!"
-            },
-            {
-                "type": "icon",
-                "value": "https://examplepokemoncollection.com/image/icon.png"
-            },
-            {
-                "type": "banner",
-                "value": "https://examplepokemoncollection.com/image/banner.png"
-            },
-            {
-                "type": "twitter",
-                "value": "ExamplePokemonCollection"
+                "value": "10,000 City View NFTs on btcindex.net, from BTCIndex."
             },
             {
                 "type": "website",
-                "value": "https://examplepokemoncollection.com/"
+                "value": "http://btcindex.net/"
             }
         ]
     }
